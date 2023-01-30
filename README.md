@@ -32,3 +32,18 @@ Below is the list of countries I would recommend anyone to visit and spend some 
 
 > "Don't grow up, it's a trap" - *Mitch Colbert* <br>
 > "Diet stands for Did I eat that" - *Mae West*
+
+---
+# JavaScript
+
+> How do I chop/slice/trim off last character in string using Javascript? 
+
+<https://stackoverflow.com/questions/952924/how-do-i-chop-slice-trim-off-last-character-in-string-using-javascript>
+
+```
+var origString = 'Happy Dance7';
+var trimmedString = origString.substring(0, origString.length-1);
+console.log(trimmedString);
+```
+
+Link to above code: <https://css-tricks.com/snippets/javascript/remove-the-last-character-from-a-string/>
