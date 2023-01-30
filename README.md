@@ -26,3 +26,9 @@ Below is the list of countries I would recommend anyone to visit and spend some 
 | Indonesia | Bali is the most beautfiul city in Indonesia with many waterfalls, beaches, temples, nature parks| 7 days |
 | UAE | UAE, Dubai is known for highrises, manmade islands, luxury malls | 15 days |
 | New York | Many tourist attractions like Statue of Liberty, Empire State Building, Times Square etc| 10 days|
+
+---
+# Funny Quotes
+
+> "Don't grow up, it's a trap" - *Mitch Colbert* <br>
+> "Diet stands for Did I eat that" - *Mae West*
